@@ -1,4 +1,4 @@
-**Snake Game 🎮**
+# Snake Game 🎮
 
 A classic Snake game built using Python and Pygame. This game features exciting gameplay with special mango food, sound effects, and increasing difficulty as you progress.
 
