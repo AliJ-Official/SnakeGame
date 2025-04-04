@@ -24,7 +24,7 @@ Clone the repository using the following command:
 git clone https://github.com/AliJ-Official/SnakeGame.git
 ```
 
-If you don't have Git installed, you can download the ZIP file from this [link]() and extract it.
+If you don't have Git installed, you can download the ZIP file from this [link](https://codeload.github.com/AliJ-Official/SnakeGame/zip/refs/heads/main) and extract it.
 
 ### 2. Create a Virtual Environment (Recommended)
 Create a virtual environment to isolate dependencies:
