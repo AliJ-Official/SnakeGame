@@ -87,7 +87,7 @@ This project requires Python and the following Python package:
 
 ## License 📜
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
